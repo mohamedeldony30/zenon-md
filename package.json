@@ -1,5 +1,5 @@
 {
-"name": "zenon-md",
+"name": "GataBot-MD",
 "version": "1.7.0", 
 "description": "Super Bot WhatsApp",
 "main": "index.js",
@@ -67,7 +67,7 @@
 "lodash": "^4.17.21",
 "lowdb": "^3.0.0",
 "libphonenumber-js": "^1.10.55",
-"module-T_O_Y_S": "^1.0.5",
+"module-gatadios": "^1.0.5",
 "md5": "^2.3.0",
 "moment-timezone": "^0.5.34",
 "mongoose": "^6.3.3",
